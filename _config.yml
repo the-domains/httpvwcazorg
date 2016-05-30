@@ -1,0 +1,14 @@
+layout_spectrum: 0.467395753134042
+typography_spectrum: 0.15186341013759375
+color:
+  brandStrength: 0.08269556961022317
+  lightness: 0.895204167580232
+  saturation: 0.5262798252515495
+  rhythmicContrast: 0.9959833908360451
+  brandColors:
+    - '#17BEBB'
+    - '#2E282A'
+    - '#CD5334'
+    - '#EDB88B'
+    - '#FAD8D6'
+name: 'http://vwcaz.org'
